@@ -1,0 +1,5 @@
+threads: 1000
+user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+advanced_request_emulation: false
+browserid_range: [52134754204, 62134754204]
+proxy_timeout: 10.00
